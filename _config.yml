@@ -61,9 +61,9 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Proyecto # Title for the section
+  - title: Habilidades # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: Tienen gran capacidad de ordenar a grandes empleados, es una personas que siempre busca que las ganancias vallan a la empresa es una persona fantastica de a la hora de llevar proyectos.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -83,7 +83,7 @@ content:
           Description about the work on/with the project
   - title: Experincia laboral
     layout: list
-    content:
+    content: A trabajado mas de 6 años en el mercado laboral, con emplesas de calidad mundial esto el da un plus obtuvo por dos veces consecutivas el tabajador de año.
       - layout: right
         title: Company name
         sub_title: Job title
@@ -95,7 +95,7 @@ content:
           Description of role
   - title: Educacion
     layout: list
-    content:
+    content: Estudio la universidad en TEC de MONTERREY, tiene en su aver dos posgrados y un doctorado a tomado varios cursos en universidades prestigiosas.
       - layout: top-right
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
