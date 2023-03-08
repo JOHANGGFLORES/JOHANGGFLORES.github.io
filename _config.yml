@@ -52,7 +52,7 @@ additional_links:
 # about_title: HABILIDADES (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Es un lider nato, tiene grandes habilidades de comunicacion tiene gran capacidad para escuchar a las personas es un horador ecepcion.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Proyecto # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,7 +81,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Experincia laboral
     layout: list
     content:
       - layout: right
@@ -93,7 +93,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Educacion
     layout: list
     content:
       - layout: top-right
