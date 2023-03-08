@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
+Johan Alan Salazar Flores: Gerente Bancario
 title: Your job title
-email: Your email (optional)
+Email: gatos2000078@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+Telefono: 55 6989 4241
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: Visitame (https://JOHANGGFLORES.github.io)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
